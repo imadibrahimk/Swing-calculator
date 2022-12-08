@@ -6,4 +6,5 @@
 
 ![alt text](https://github.com/Imad-Ibrahim-K/Swing-calculator/blob/main/image/Calculator.png)
 
-I used Swing Framework to create
+### Swing Framework
+###### I used Swing Framework to create Graphical User Interface(GUI)
