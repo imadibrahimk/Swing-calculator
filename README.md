@@ -6,4 +6,4 @@
 ![alt text](https://github.com/Imad-Ibrahim-K/Swing-calculator/blob/main/image/Calculator.png)
 
 I used [Swing Framework]
-(https://) to build 
+[pip](https://pip.pypa.io/en/stable/) to install foobar.
