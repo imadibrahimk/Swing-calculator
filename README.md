@@ -1,5 +1,5 @@
 # Simple Calculator
-###### This is my first calculator project, This task i got 100k coding challange from BROTOTYPE to build calculator, But I got many errors, Now i completed.
+###### This is my first calculator project, This task i got 100k coding challange from BROTOTYPE to build calculator, But I got many errors, Now i completed. This java code is fully done by me by using Swing Graphical User Interface.
 
 ## Swing Calculator
 
